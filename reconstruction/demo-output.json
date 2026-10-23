@@ -1,0 +1,10 @@
+{
+  "near": {
+    "fault": false,
+    "vibrate": true
+  },
+  "far": {
+    "fault": false,
+    "vibrate": false
+  }
+}

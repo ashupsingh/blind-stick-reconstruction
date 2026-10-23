@@ -1,0 +1,23 @@
+{
+  "id": "blind-stick",
+  "name": "Blind stick with ultrasonic sensor",
+  "category": "IoT / Healthcare",
+  "group": "Embedded & IoT",
+  "icon": "cpu",
+  "description": "Smart stick for visually impaired people that vibrates when obstacles are detected.",
+  "detail": "An assistive walking-stick prototype that uses an ultrasonic sensor to detect nearby objects and provides buzzer or vibration feedback.",
+  "stack": [
+    "Arduino",
+    "Ultrasonic Sensor",
+    "Buzzer",
+    "Vibration Motor"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/blind_stick.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
